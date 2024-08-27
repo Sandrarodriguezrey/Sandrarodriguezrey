@@ -1,6 +1,4 @@
 
-                         <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>                         
-
 ### 👩‍💻 TODO SOBRE MI
 
 - 👋 Mi nombre es Sandra Rodriguez
