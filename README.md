@@ -44,7 +44,7 @@ MS Office /  Java /  SQL /  Google Drive /  Hojas de Calculo /  Oracle  / Facebo
 •	Preparé documentación detallada y oportuna para autoría interna del Banco Mundial
 •	Coordiné los procesos de pago asegurando que las transacciones se completen eficientemente.  
 
-### 📫 Encuentrame tambien en: 
+### 📫 Mas detalle sobre mi: 
 
 https://www.linkedin.com/in/sandrarodriguez461428179/
 
