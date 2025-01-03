@@ -35,7 +35,7 @@ MS Office / Google Drive /  Hojas de Calculo /  Oracle  / Facebook /  Instagram 
 - 	Preparé documentación detallada y oportuna para autoría, validando la calidad ante cualquier proceso de revisión.
 - 	Coordiné los procesos de pago asegurando que las transacciones se completen eficientemente, asegurando la calidad en cualquier flujo de trabajo.  
 
-### 📫 Mas detalle sobre mi: 
+### 📫 Algo mas?... Si!: 
 
 https://www.linkedin.com/in/sandrarodriguez461428179/
 
