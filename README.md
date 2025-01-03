@@ -1,4 +1,4 @@
-![Descripción de la imagen](Sin título (2).jpeg)
+![Descripción de la imagen](https://github.com/Sandrarodriguezrey/Sandrarodriguezrey.git)
 
 
 ### 👩‍💻 Sobre MI
