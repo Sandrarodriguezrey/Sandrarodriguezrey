@@ -1,49 +1,39 @@
 ![Descripción de la imagen](https://github.com/Sandrarodriguezrey/Sandrarodriguezrey/blob/main/Sin%20t%C3%ADtulo%20(2).png?raw=true)
 
 
-### 👩‍💻 TODO SOBRE MI
+### 👩‍💻 Sobre MI
 
-- 👋 Mi nombre es Sandra Rodriguez
-- 👀 Actualmente en transición hacia la Informática de Tecnología como QA ENGINEER, deseosa de aplicar todas mis habilidades técnicas y analíticas
-- 🌱 A lo largo de mi carrera profesional he desarrollado habilidades que son claves para el control de la calidad del software.
-- 😄 Comparto alguno de mis proyectos desarrollados en Bootcamp en Tripleten. :smile:
-
-### 🛠️ Habilidades Blandas /  
-
-- 👀 Identificación y resolución de problemas,
-- 👀 Comunicación efectiva,
-- 👀 Documentación de pruebas,
-- 👀 Enfoque proactivo en trabajo en equipo,
-- 👀 Identificar al detalle las inconsistencias,
-- 👀 Compromiso y puntualidad 
+- 👀 Actualmente en transición hacia el área de tecnología, deseosa de aplicar mis habilidades técnicas y analíticas.
+- 🌱 A lo largo de mi carrera he desarrollado habilidades clave para el control de calidad del software.
+- 😄 He trabajado en proyectos prácticos durante mi formación como QA Engineer; lo que me ha permitido desarrollar un enfoque analitico y meticuloso en mis proyectos. 
  
-### 🎮 Habilidades Tecnicas
+### 🎮 Habilidades Técnicas
 
-Pruebas manuales / Pruebas de regresión / SQL / Mobile Testing  /  Android Studio / Postman / Devtools /  Pruebas de API / Automatización de Pruebas / Pytest / Python /   Pycharm  / Selenium  /  Web Driver /  Consola /  JIRA /  Figma  
+Pruebas manuales / Pruebas de regresión / Casos de Prueba / SQL (Base de datos) / Devtools /  Pruebas de API con Postman / JIRA /  Figma  /  GitHub  
 
 ### 🎮 Conocimientos Informaticos
 
-MS Office /  Java /  SQL /  Google Drive /  Hojas de Calculo /  Oracle  / Facebook /  Instagram /  GitHub /  Paint 3D /  Consola /  Email 
+MS Office / Google Drive /  Hojas de Calculo /  Oracle  / Facebook /  Instagram /  Paint 3D / Email / Automatización de Pruebas / Pytest / Python / Pycharm  / Selenium  /  Web Driver /  Consola
 
-### 👋 Experiencia laboral como Administradora 
+### 👋 Experiencia laboral como Administradora con enfoque en Calidad (QA) - 3 años
 
-•	Responsable en la optimización y coordinación de los procesos administrativos.
-•	Apoyé en la verificación de toda documentación para garantizar una buena presentación ante clientes.
-•	Desarrollé y gestioné una base de datos para 600 contratos, asegurando la precisión en el cumplimiento de entrega en los plazos establecidos.
-•	Supervisé al detalle la gestión de pagos, asegurando el control financiero ante un proceso de auditoría.
-•	Capacité a docentes de instituciones educativas para la rendición de los viáticos otorgados. 
+•	Realice un análisis exhaustivo de los datos financieros, identificando posibles inconsistencias, lo que me permitió tomar decisiones para mejorar la precisión y efectividad de los procesos.              
+•	Fui responsable de optimizar y coordinar los procesos administrativos implementando mejoras en el flujo de trabajo, lo que permitió una gestión más ágil de las tareas diarias.
+•	Colaboré en la validación de toda documentación administrativa, asegurando el cumplimiento de lo requerido para una presentación precisa ante clientes.
 
-### 👋 Experiencia laboral como Gerente de Sucursal
+
+### 👋 Experiencia laboral como Gerente de Sucursal con enfoque en Calidad (QA) - 4 años
 
 •	Dirigí, gestioné y ejecuté todas las actividades administrativas, operativas, comerciales y auditoría interna; asegurando el cumplimiento de la calidad de nuestros servicios.
 •	Seleccioné y recluté personal de seguridad para transporte de dinero.
 •	Desarrollé e implementé estrategias operativas para alcanzar los objetivos a corto y largo plazo.
 
-### 👋 Experiencia laboral como Administrativa contable
+
+### 👋 Experiencia laboral como Administrativa contable con enfoque en Calidad (QA) - 8 años
 
 •	Validé información contable para la preparación de los Estados Financieros y Conciliaciones bancarias.
-•	Preparé documentación detallada y oportuna para autoría interna del Banco Mundial
-•	Coordiné los procesos de pago asegurando que las transacciones se completen eficientemente.  
+•	Preparé documentación detallada y oportuna para autoría, validando la calidad ante cualquier proceso de revisión.
+•	Coordiné los procesos de pago asegurando que las transacciones se completen eficientemente, asegurando la calidad en cualquier flujo de trabajo.  
 
 ### 📫 Mas detalle sobre mi: 
 
@@ -51,8 +41,8 @@ https://www.linkedin.com/in/sandrarodriguez461428179/
 
 ### 😄 Idiomas
 
-•	Ingles, intermedio
-•	Portugues, intermedio
+•	Ingles - básico
+•	Portugues - básico
 
 ---
 
