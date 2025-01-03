@@ -9,7 +9,7 @@
 
 ### 👩‍💻  Aqui encontrarás algunos de mis proyectos prácticos
 
-[Respositorio 1] (https://github.com/Sandrarodriguezrey/Proyecto_Tripleten_1)
+[Respositorio 1] (https://github.com/Sandrarodriguezrey/Proyecto_Tripleten_1.git)
 
 ---
  
