@@ -1,4 +1,5 @@
-![Descripción de la imagen](https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:f0a14f64-edbb-5195-a111-2fbc50ab8022?category=text)
+![Descripción de la imagen](![image](https://github.com/user-attachments/assets/d425946e-2c59-45ab-9529-fd2c2c03c486)
+)
 
 
 ### 👩‍💻 TODO SOBRE MI
