@@ -3,7 +3,7 @@
 
 ### 👩‍💻 Sobre MI
 
-- 👀 Actualmente en transición hacia el área de tecnología, deseosa de aplicar mis habilidades técnicas y analíticas.
+- :star: Actualmente en transición hacia el área de tecnología, deseosa de aplicar mis habilidades técnicas y analíticas.
 - 🌱 A lo largo de mi carrera he desarrollado habilidades clave para el control de calidad del software.
 - 😄 He trabajado en proyectos prácticos durante mi formación como QA Engineer; lo que me ha permitido desarrollar un enfoque analitico y meticuloso en mis proyectos.
  
