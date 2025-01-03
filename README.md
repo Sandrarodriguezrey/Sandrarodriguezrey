@@ -1,5 +1,4 @@
-![Descripción de la imagen](![image](https://github.com/user-attachments/assets/d425946e-2c59-45ab-9529-fd2c2c03c486)
-)
+![Descripción de la imagen](https://github.com/Sandrarodriguezrey/Sandrarodriguezrey/blob/main/Sin%20t%C3%ADtulo%20(2).png?raw=true)
 
 
 ### 👩‍💻 TODO SOBRE MI
