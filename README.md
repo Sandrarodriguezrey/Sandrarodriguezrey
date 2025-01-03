@@ -4,7 +4,7 @@
 - 👋 Mi nombre es Sandra Rodriguez
 - 👀 Actualmente en transición hacia la Informática de Tecnología como QA ENGINEER, deseosa de aplicar todas mis habilidades técnicas y analíticas
 - 🌱 A lo largo de mi carrera profesional he desarrollado habilidades que son claves para el control de la calidad del software.
-- 😄 Comparto alguno de mis proyectos desarrollados en Bootcamp en Tripleten.
+- 😄 Comparto alguno de mis proyectos desarrollados en Bootcamp en Tripleten. :smile:
 
 ### 🛠️ Habilidades Blandas /  
 
