@@ -42,17 +42,18 @@ MS Office / Google Drive /  Hojas de Calculo /  Oracle  / Facebook /  Instagram 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">***Experiencia laboral***
 
 <details>
-  <summary>☎️ contact me</summary>
+  <summary> Procalidad </summary>
 <div>
   <samp>
   
-
 ### :point_right: Experiencia laboral como Administradora con enfoque en Calidad (QA) - 3 años
 
 - 	Realice un análisis exhaustivo de los datos financieros, identificando posibles inconsistencias, lo que me permitió tomar decisiones para mejorar la precisión y efectividad de los procesos.   
 - 	Fui responsable de optimizar y coordinar los procesos administrativos implementando mejoras en el flujo de trabajo, lo que permitió una gestión más ágil de las tareas diarias.
 - 	Colaboré en la validación de toda documentación administrativa, asegurando el cumplimiento de lo requerido para una presentación precisa ante clientes.
 
+<details>
+  <summary> Prosegur </summary>
 
 ### :point_right: Experiencia laboral como Gerente de Sucursal con enfoque en Calidad (QA) - 4 años
 
