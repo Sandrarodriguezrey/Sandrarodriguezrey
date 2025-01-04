@@ -15,7 +15,7 @@
 
 
 
-### :bulb: PROYECTOS DE PRACTICA
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Proyectos***
 
 Estos proyectos son prácticas realizadas durante mi formación como QA Engineer, donde aplique conceptos de pruebas de regresión, diseño de caso de pruebas y otras herramientas relevantes para asegurar la calidad del software. Te los presento:
 
