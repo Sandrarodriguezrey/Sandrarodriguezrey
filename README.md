@@ -1,6 +1,6 @@
 ![Descripción de la imagen](https://github.com/Sandrarodriguezrey/Sandrarodriguezrey/blob/main/Sin%20t%C3%ADtulo%20(2).jpeg)
 
-### :raising_hand: _Sobre MI_
+### :raising_hand: SOBRE MI
 
 - :star: Actualmente en transición hacia el área de tecnología, deseosa de aplicar mis habilidades técnicas y analíticas.
 - :raised_hands: A lo largo de mi carrera he desarrollado habilidades clave para el control de calidad del software.
@@ -8,7 +8,7 @@
 - :sun_with_face: Motivada por seguir aprendiendo y aplicando nuevas tecnologías en un entorno dinámico.
 - :hatching_chick: En mi tiempo libre, disfruto aprender de manera autodidacta (inglés, herramientas tecnológicas), leer, organizar, contemplar la naturaleza y pasar tiempo en familia.
 
-### :bulb: _Proyectos de Práctica_
+### :bulb: PROYECTOS DE PRACTICA
 
 Estos proyectos son prácticas realizadas durante mi formación como QA Engineer, donde aplique conceptos de pruebas de regresión, diseño de caso de pruebas y otras herramientas relevantes para asegurar la calidad del software. Te los presento:
 
