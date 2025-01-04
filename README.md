@@ -11,7 +11,6 @@
 - :raised_hands: A lo largo de mi carrera he desarrollado habilidades clave para el control de calidad del software.
 - :ok_woman: En mi formación como QA Engineer, trabajé en proyectos prácticos que me ayudaron a desarrollar un enfoque analítico y meticuloso.
 - :sun_with_face: Motivada por seguir aprendiendo y aplicando nuevas tecnologías en un entorno dinámico.
-- :hatching_chick: En mi tiempo libre, disfruto aprender de manera autodidacta (inglés, herramientas tecnológicas), leer, organizar, contemplar la naturaleza y pasar tiempo en familia.
 - 📫 Algo mas?... Si!:   [Linkedin](www.linkedin.com/in/sandrarodriguez461428179)
 
 
