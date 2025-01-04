@@ -12,10 +12,11 @@
 - :ok_woman: En mi formación como QA Engineer, trabajé en proyectos prácticos que me ayudaron a desarrollar un enfoque analítico y meticuloso.
 - :sun_with_face: Motivada por seguir aprendiendo y aplicando nuevas tecnologías en un entorno dinámico.
 - :hatching_chick: En mi tiempo libre, disfruto aprender de manera autodidacta (inglés, herramientas tecnológicas), leer, organizar, contemplar la naturaleza y pasar tiempo en familia.
-- :raised_hands:  [Linkedin](www.linkedin.com/in/sandrarodriguez461428179)
+### 📫 Algo mas?... Si!:   [Linkedin](www.linkedin.com/in/sandrarodriguez461428179)
 
 
- 
+
+
 
  ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">***Proyectos***
 
@@ -58,14 +59,6 @@ MS Office / Google Drive /  Hojas de Calculo /  Oracle  / Facebook /  Instagram 
 - 	Preparé documentación detallada y oportuna para autoría, validando la calidad ante cualquier proceso de revisión.
 - 	Coordiné los procesos de pago asegurando que las transacciones se completen eficientemente, asegurando la calidad en cualquier flujo de trabajo.  
 
-### 📫 Algo mas?... Si!: 
-
-https://www.linkedin.com/in/sandrarodriguez461428179/
-
-### 😄 Idiomas
-
-- 	Ingles - básico
-- 	Portugues - básico
 
 ---
 
