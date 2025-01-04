@@ -34,8 +34,8 @@ Estos proyectos son prácticas realizadas durante mi formación como QA Engineer
 
 
 
- 
-### :information_desk_person: Habilidades Técnicas
+
+### :information_desk_person: ***Habilidades Tecnicas***
 
 Pruebas manuales / Pruebas de regresión / Casos de Prueba / SQL (Base de datos) / Devtools /  Pruebas de API con Postman / JIRA /  Figma  /  GitHub  
 
