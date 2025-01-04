@@ -42,7 +42,7 @@ MS Office / Google Drive /  Hojas de Calculo /  Oracle  / Facebook /  Instagram 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">***Experiencia laboral***
 
 <details>
-  <summary> Aqui puedes encontrar un resumen de mi experiencia laboral con mas de 10 anos en proyectos de calidad. Durante este tiempo, desarrolle habilidades y competencias técnicas que hoy refuerzan mi perfil como QA Engineer. </summary>
+  <summary> Aqui puedes encontrar un resumen de mi experiencia laboral con mas de 10 años en proyectos de calidad. Durante este tiempo, desarrolle habilidades y competencias técnicas que hoy refuerzan mi perfil como QA Engineer. </summary>
 <div>
   <samp>
   
@@ -67,7 +67,9 @@ MS Office / Google Drive /  Hojas de Calculo /  Oracle  / Facebook /  Instagram 
 - 	Coordiné los procesos de pago asegurando que las transacciones se completen eficientemente, asegurando la calidad en cualquier flujo de trabajo.  
 
 
-
+----------------------------------------------------------
+<div>
+  <samp>
 
 <p align="center">
 <img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
