@@ -1,8 +1,8 @@
 ![Descripción de la imagen](https://github.com/Sandrarodriguezrey/Sandrarodriguezrey/blob/main/Portada%20LinkedIn%20Oferta%20de%20Empleo%20Empresa%20Profesional%20Corporativo%20Creativo%20Amarillo%20y%20Azul.png)
 
 
-### So, let's meet!
-You can check out my projects and also you can find me on [Linkedin](www.linkedin.com/in/sandrarodriguez461428179)
+
+### Puedes encontrarme tambien en  [Linkedin](www.linkedin.com/in/sandrarodriguez461428179)
                                                                 
 ### :raising_hand: SOBRE MI
 
