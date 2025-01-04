@@ -1,4 +1,4 @@
-![Descripción de la imagen](https://github.com/Sandrarodriguezrey/Sandrarodriguezrey/blob/main/Sin%20t%C3%ADtulo%20(2).jpeg)
+![Descripción de la imagen](https://github.com/Sandrarodriguezrey/Sandrarodriguezrey/blob/main/Portada%20LinkedIn%20Oferta%20de%20Empleo%20Empresa%20Profesional%20Corporativo%20Creativo%20Amarillo%20y%20Azul.png)
 
 ### :raising_hand: SOBRE MI
 
