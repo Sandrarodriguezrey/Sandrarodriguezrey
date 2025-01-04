@@ -1,11 +1,16 @@
 ![Descripción de la imagen](https://github.com/Sandrarodriguezrey/Sandrarodriguezrey/blob/main/Sin%20t%C3%ADtulo%20(2).jpeg)
 
-
 ### 👩‍💻 Sobre MI
 
 - :star: Actualmente en transición hacia el área de tecnología, deseosa de aplicar mis habilidades técnicas y analíticas.
 - :raised_hands: A lo largo de mi carrera he desarrollado habilidades clave para el control de calidad del software.
 - :ok_woman: He trabajado en proyectos prácticos durante mi formación como QA Engineer; lo que me ha permitido desarrollar un enfoque analitico y meticuloso en mis proyectos.
+
+### :bulb: Proyectos de Práctica
+
+Estos proyectos son prácticas realizadas durante mi formación como QA Engineer, donde aplique conceptos de pruebas de regresión, diseño de caso de pruebas y otras herramientas relevantes para asegurar la calidad del software
+
+
  
 ### :information_desk_person: Habilidades Técnicas
 
