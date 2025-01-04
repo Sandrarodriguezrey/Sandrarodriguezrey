@@ -2,8 +2,8 @@
 
 
 
- <h1 style="text-align: center;">SOBREMI</h1>                                                                   
-<center># raising_hand: SOBRE MI</center>
+ <h1 style="text-align: center;">raising_hand:SOBRE MI</h1>                                                                   
+
 
 - :star: Actualmente en transición hacia el área de tecnología, deseosa de aplicar mis habilidades técnicas y analíticas.
 - :raised_hands: A lo largo de mi carrera he desarrollado habilidades clave para el control de calidad del software.
