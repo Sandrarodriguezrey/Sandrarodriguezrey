@@ -17,7 +17,7 @@
 
  
 
- ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif">***Proyectos***
+ ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">***Proyectos***
 
  <img align="right" width="300px" alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" style="border: none; display: block;" />
 
@@ -30,12 +30,7 @@ Estos proyectos son prácticas realizadas durante mi formación como QA Engineer
 
 
 
-
-
-
-
-
-### :information_desk_person: ***Habilidades Tecnicas***
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">***Habilidades técnicas***
 
 Pruebas manuales / Pruebas de regresión / Casos de Prueba / SQL (Base de datos) / Devtools /  Pruebas de API con Postman / JIRA /  Figma  /  GitHub  
 
