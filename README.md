@@ -2,7 +2,7 @@
 
 
 
- <h1 style="text-align: center;">raising_hand:SOBRE MI</h1>                                                                   
+ <h1 style="text-align: center;"> raising_hand:SOBRE MI</h1>                                                                   
 
 
 - :star: Actualmente en transición hacia el área de tecnología, deseosa de aplicar mis habilidades técnicas y analíticas.
