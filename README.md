@@ -4,7 +4,7 @@
 
 
                                                                 
-### :raising_hand: SOBRE MI
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">***Sobre Mi***
 
 
 - :star: Actualmente en transición hacia el área de tecnología, deseosa de aplicar mis habilidades técnicas y analíticas.
