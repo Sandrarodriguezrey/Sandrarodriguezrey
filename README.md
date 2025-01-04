@@ -42,27 +42,25 @@ MS Office / Google Drive /  Hojas de Calculo /  Oracle  / Facebook /  Instagram 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">***Experiencia laboral***
 
 <details>
-  <summary> Procalidad </summary>
+  <summary> Aqui puedes encontrar un resumen de mi experiencia laboral con mas de 10 anos en proyectos de calidad. Durante este tiempo, desarrolle habilidades y competencias técnicas que hoy refuerzan mi perfil como QA Engineer. </summary>
 <div>
   <samp>
   
-### :point_right: Experiencia laboral como Administradora con enfoque en Calidad (QA) - 3 años
+### :point_right: Experiencia laboral como Administradora con enfoque en Calidad (QA) - Procalidad - 3 años
 
 - 	Realice un análisis exhaustivo de los datos financieros, identificando posibles inconsistencias, lo que me permitió tomar decisiones para mejorar la precisión y efectividad de los procesos.   
 - 	Fui responsable de optimizar y coordinar los procesos administrativos implementando mejoras en el flujo de trabajo, lo que permitió una gestión más ágil de las tareas diarias.
 - 	Colaboré en la validación de toda documentación administrativa, asegurando el cumplimiento de lo requerido para una presentación precisa ante clientes.
 
-<details>
-  <summary> Prosegur </summary>
 
-### :point_right: Experiencia laboral como Gerente de Sucursal con enfoque en Calidad (QA) - 4 años
+### :point_right: Experiencia laboral como Gerente de Sucursal con enfoque en Calidad (QA) - Prosegur - 4 años
 
 - 	Dirigí, gestioné y ejecuté todas las actividades administrativas, operativas, comerciales y auditoría interna; asegurando el cumplimiento de la calidad de nuestros servicios.
 - 	Seleccioné y recluté personal de seguridad para transporte de dinero.
 - 	Desarrollé e implementé estrategias operativas para alcanzar los objetivos a corto y largo plazo.
 
 
-### :point_right: Experiencia laboral como Administrativa contable con enfoque en Calidad (QA) - 8 años
+### :point_right: Experiencia laboral como Administrativa contable con enfoque en Calidad (QA) - Provias - 8 años
 
 - 	Validé información contable para la preparación de los Estados Financieros y Conciliaciones bancarias.
 - 	Preparé documentación detallada y oportuna para autoría, validando la calidad ante cualquier proceso de revisión.
