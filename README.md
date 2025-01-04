@@ -52,7 +52,10 @@ https://www.linkedin.com/in/sandrarodriguez461428179/
 
 ---
 
+### :sunny: Me alegra que estes aquí. :sunny: Jamás olvides que el mejor día de tu vida es hoy. Bendiciones. :blossom: :paw_prints:
 
+
+----------
 
 
 
