@@ -18,9 +18,9 @@
 <img align="right" width="300px" alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" style="border: none; display: block;" />
 
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; 
+ ***Proyectos***
 
-***Proyectos***
+ ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
 
 Estos proyectos son prácticas realizadas durante mi formación como QA Engineer, donde aplique conceptos de pruebas de regresión, diseño de caso de pruebas y otras herramientas relevantes para asegurar la calidad del software. Te los presento:
 
