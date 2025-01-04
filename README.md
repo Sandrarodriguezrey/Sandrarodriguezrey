@@ -41,6 +41,12 @@ MS Office / Google Drive /  Hojas de Calculo /  Oracle  / Facebook /  Instagram 
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">***Experiencia laboral***
 
+<details>
+  <summary>☎️ contact me</summary>
+<div>
+  <samp>
+  
+
 ### :point_right: Experiencia laboral como Administradora con enfoque en Calidad (QA) - 3 años
 
 - 	Realice un análisis exhaustivo de los datos financieros, identificando posibles inconsistencias, lo que me permitió tomar decisiones para mejorar la precisión y efectividad de los procesos.   
