@@ -1,6 +1,7 @@
 ![Descripción de la imagen](https://github.com/Sandrarodriguezrey/Sandrarodriguezrey/blob/main/Portada%20LinkedIn%20Oferta%20de%20Empleo%20Empresa%20Profesional%20Corporativo%20Creativo%20Amarillo%20y%20Azul.png)
 
-### :raising_hand: SOBRE MI
+                                                                       
+                                                                       ### :raising_hand: SOBRE MI
 
 - :star: Actualmente en transición hacia el área de tecnología, deseosa de aplicar mis habilidades técnicas y analíticas.
 - :raised_hands: A lo largo de mi carrera he desarrollado habilidades clave para el control de calidad del software.
