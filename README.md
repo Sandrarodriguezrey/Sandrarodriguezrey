@@ -34,9 +34,9 @@ Estos proyectos son prácticas realizadas durante mi formación como QA Engineer
 
 Pruebas manuales / Pruebas de regresión / Casos de Prueba / SQL (Base de datos) / Devtools /  Pruebas de API con Postman / JIRA /  Figma  /  GitHub  / Notion
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">***Otras competencias técnicas y profesionales***
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">***Otras competencias profesionales***
 
-MS Office / Google Drive /  Hojas de Calculo /  Oracle  / Facebook /  Instagram /  Paint 3D / Email / Automatización de Pruebas / Pytest / Python / Pycharm  / Selenium  /  Web Driver /  Consola / SDLC / Ingles / portugues / SCRUM 
+MS Office / Google Drive /  Hojas de Calculo /  Oracle  / Facebook /  Instagram /  Paint 3D / Email / Automatización de Pruebas / Python / Selenium  /  Web Driver /  Consola / SDLC / Ingles / portugues / SCRUM 
 
 ### :point_right: Experiencia laboral como Administradora con enfoque en Calidad (QA) - 3 años
 
