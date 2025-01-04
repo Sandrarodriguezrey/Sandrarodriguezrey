@@ -68,8 +68,10 @@ MS Office / Google Drive /  Hojas de Calculo /  Oracle  / Facebook /  Instagram 
 
 
 ----------------------------------------------------------
-<div>
-  <samp>
+</p>
+ </samp>
+</div>
+</details>
 
 <p align="center">
 <img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
