@@ -2,7 +2,7 @@
 
 
 
- <center># raising_hand: SOBRE MI centrado</center>                                                                      
+ <center># raising_hand: SOBRE MI </center>                                                                      
 
 
 - :star: Actualmente en transición hacia el área de tecnología, deseosa de aplicar mis habilidades técnicas y analíticas.
