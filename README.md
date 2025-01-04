@@ -14,7 +14,6 @@
 - :hatching_chick: En mi tiempo libre, disfruto aprender de manera autodidacta (inglés, herramientas tecnológicas), leer, organizar, contemplar la naturaleza y pasar tiempo en familia.
 
 
-<h1 style="margin-bottom: 0; padding-bottom: 0;">SBREMI</h1>
 <img align="right" width="300px" alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" style="border: none; display: block;" />
 
 
