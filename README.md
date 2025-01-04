@@ -8,11 +8,13 @@
 - :sun_with_face: Motivada por seguir aprendiendo y aplicando nuevas tecnologías en un entorno dinámico.
 - :hatching_chick: En mi tiempo libre, disfruto aprender de manera autodidacta (inglés, herramientas tecnológicas), leer, organizar, contemplar la naturaleza y pasar tiempo en familia.
 
+
 ### :bulb: PROYECTOS DE PRACTICA
 
 Estos proyectos son prácticas realizadas durante mi formación como QA Engineer, donde aplique conceptos de pruebas de regresión, diseño de caso de pruebas y otras herramientas relevantes para asegurar la calidad del software. Te los presento:
 
 - **Proyecto 1: Pruebas de regresión y diseño de casos de pruebas para una aplicación de transporte** (https://github.com/Sandrarodriguezrey/Proyecto1_Urban_Routes)
+
 
  
 ### :information_desk_person: Habilidades Técnicas
