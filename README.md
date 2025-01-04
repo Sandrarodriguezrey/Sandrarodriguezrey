@@ -8,8 +8,9 @@
 
 ### :bulb: Proyectos de Práctica
 
-Estos proyectos son prácticas realizadas durante mi formación como QA Engineer, donde aplique conceptos de pruebas de regresión, diseño de caso de pruebas y otras herramientas relevantes para asegurar la calidad del software
+Estos proyectos son prácticas realizadas durante mi formación como QA Engineer, donde aplique conceptos de pruebas de regresión, diseño de caso de pruebas y otras herramientas relevantes para asegurar la calidad del software. Te los presento:
 
+- [Proyecto 1: Pruebas de regresión y diseño de casos de pruebas para una aplicación de transporte] (https://github.com/Sandrarodriguezrey/Proyecto1_Urban_Routes)
 
  
 ### :information_desk_person: Habilidades Técnicas
