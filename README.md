@@ -13,7 +13,7 @@
 - :ok_woman: En mi formación como QA Engineer, trabajé en proyectos prácticos que me ayudaron a desarrollar un enfoque analítico y meticuloso.
 - :sun_with_face: Motivada por seguir aprendiendo y aplicando nuevas tecnologías en un entorno dinámico.
  
-🤝 &nbsp; Conectate conmigo: [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sandrarodriguez461428179)
+🤝 &nbsp; Conectate conmigo:    [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sandrarodriguez461428179)
 
 
 
