@@ -1,6 +1,8 @@
-![Descripción de la imagen](https://github.com/Sandrarodriguezrey/Sandrarodriguezrey/blob/main/Portada%20LinkedIn%20Oferta%20de%20Empleo%20Empresa%20Profesional%20Corporativo%20Creativo%20Amarillo%20y%20Azul.png)
 
 
+<p align="center">
+<img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
+ <p/>
 
 
                                                                 
@@ -75,9 +77,7 @@ MS Office / Google Drive /  Hojas de Calculo /  Oracle  / Facebook /  Instagram 
 </div>
 </details>
 
-<p align="center">
-<img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
- <p/>
+
 ---
 
 ### :sunny: Me alegra que estes aquí. :sunny: Jamás olvides que el mejor día de tu vida es hoy. Bendiciones. :blossom: :paw_prints:
