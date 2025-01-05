@@ -83,7 +83,7 @@ Estos proyectos son prácticas realizadas durante mi formación como QA Engineer
 ----------
 
 ----
-Credit: [harshkumarkhatri](https://github.com/Sandrarodriguezrey)
+Credit: [SandraRodriguezRey](https://github.com/Sandrarodriguezrey)
 
 Last Edited on: 05/01/2025
 
