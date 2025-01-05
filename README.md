@@ -54,6 +54,7 @@ Estos proyectos son prácticas realizadas durante mi formación como QA Engineer
 - 	Realice un análisis exhaustivo de los datos financieros, identificando posibles inconsistencias, lo que me permitió tomar decisiones para mejorar la precisión y efectividad de los procesos.   
 - 	Fui responsable de optimizar y coordinar los procesos administrativos implementando mejoras en el flujo de trabajo, lo que permitió una gestión más ágil de las tareas diarias.
 - 	Colaboré en la validación de toda documentación administrativa, asegurando el cumplimiento de lo requerido para una presentación precisa ante clientes.
+- 	Herramientas: Oracle, Outlook, Drawio, Google Sheet, Microsoft Office
 
 
 ### :point_right: Experiencia laboral como Gerente de Sucursal con enfoque en Calidad (QA) - Prosegur - 4 años
@@ -61,13 +62,15 @@ Estos proyectos son prácticas realizadas durante mi formación como QA Engineer
 - 	Dirigí, gestioné y ejecuté todas las actividades administrativas, operativas, comerciales y auditoría interna; asegurando el cumplimiento de la calidad de nuestros servicios.
 - 	Seleccioné y recluté personal de seguridad para transporte de dinero.
 - 	Desarrollé e implementé estrategias operativas para alcanzar los objetivos a corto y largo plazo.
+-  Herramientas: Salesforce, Outlook, Google Sheet, Microsoft Office
 
 
 ### :point_right: Experiencia laboral como Administrativa contable con enfoque en Calidad (QA) - Provias - 8 años
 
 - 	Validé información contable para la preparación de los Estados Financieros y Conciliaciones bancarias.
 - 	Preparé documentación detallada y oportuna para autoría, validando la calidad ante cualquier proceso de revisión.
-- 	Coordiné los procesos de pago asegurando que las transacciones se completen eficientemente, asegurando la calidad en cualquier flujo de trabajo.  
+- 	Coordiné los procesos de pago asegurando que las transacciones se completen eficientemente, asegurando la calidad en cualquier flujo de trabajo.
+- 	Herramientas: Siaf, Oracle, Outlook, Google Sheet, Microsoft Office
 
 
 ----------------------------------------------------------
