@@ -27,7 +27,7 @@ Estos proyectos son prácticas realizadas durante mi formación como QA Engineer
 
 - **P2:** Casos de Prueba, Equivalencias, Diagrama de flujo, para una aplicación de transporte (https://github.com/Sandrarodriguezrey/Proyecto2_Urban_Routes)
 
-
+- **P3:** Casos de Prueba, Diseno, Devtools, para una aplicación de transporte (https://github.com/Sandrarodriguezrey/Proyecto3_Urban_Routes/tree/main)
 
 <br>
 
