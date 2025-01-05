@@ -35,13 +35,11 @@ Estos proyectos son prácticas realizadas durante mi formación como QA Engineer
 
 
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">***Habilidades técnicas***
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">***Habilidades técnicas :mag_right: y Otras competencias profesionales :computer:***
 
-Pruebas manuales / Pruebas de regresión / Casos de Prueba / SQL (Base de datos) / Devtools /  Pruebas de API con Postman / JIRA /  Figma  /  GitHub  / Notion
+:mag_right: Pruebas manuales / Pruebas de regresión / Casos de Prueba / SQL (Base de datos) / Devtools /  Pruebas de API con Postman / JIRA /  Figma  /  GitHub  / Notion
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">***Otras competencias profesionales***
-
-MS Office / Google Drive /  Hojas de Calculo /  Oracle  / Facebook /  Instagram /  Paint 3D / Email / Automatización de Pruebas / Python / Selenium  /  Web Driver /  Consola / SDLC / Ingles / portugues / SCRUM 
+:computer: MS Office / Google Drive /  Hojas de Calculo /  Oracle  / Facebook /  Instagram /  Paint 3D / Email / Automatización de Pruebas / Python / Selenium  /  Web Driver /  Consola / SDLC / Ingles / portugues / SCRUM 
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">***Experiencia laboral***
 
