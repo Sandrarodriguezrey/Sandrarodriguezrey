@@ -15,7 +15,7 @@
  
 - 🤝 &nbsp; Conectate conmigo: &nbsp;&nbsp;   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sandrarodriguez461428179)
 
-<br><br>
+<br>
 
  ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">***Proyectos***
 
@@ -31,7 +31,7 @@ Estos proyectos son prácticas realizadas durante mi formación como QA Engineer
 
 - **Proyecto 1: Pruebas de regresión y diseño de casos de pruebas para una aplicación de transporte**
 
-
+<br>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">***Habilidades técnicas :mag_right: y Otras competencias profesionales :computer:***
 
