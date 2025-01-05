@@ -25,7 +25,7 @@ Estos proyectos son prácticas realizadas durante mi formación como QA Engineer
 
 - **Proyecto 1: Pruebas de regresión y diseño de casos de pruebas para una aplicación de transporte** (https://github.com/Sandrarodriguezrey/Proyecto1_Urban_Routes)
 
-- **Proyecto 2: Pruebas de regresión y diseño de casos de pruebas para una aplicación de transporte**
+- **Proyecto 2: Casos de Prueba, Equivalencias, Diagrama de flujo, para una aplicación de transporte** (https://github.com/Sandrarodriguezrey/Proyecto2_Urban_Routes)
 
 - **Proyecto 1: Pruebas de regresión y diseño de casos de pruebas para una aplicación de transporte**
 
