@@ -39,6 +39,8 @@ Estos proyectos son prácticas realizadas durante mi formación como QA Engineer
 
 :computer: MS Office / Google Drive /  Hojas de Calculo /  Oracle  / Facebook /  Instagram /  Paint 3D / Email / Automatización de Pruebas / Python / Selenium  /  Web Driver /  Consola / SDLC / Ingles / portugues / SCRUM 
 
+<br>
+
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">***Experiencia laboral***
 
 <details> 
@@ -76,7 +78,7 @@ Estos proyectos son prácticas realizadas durante mi formación como QA Engineer
 
 
 ---
-
+<br>
 ### :sunny: Me alegra que estes aquí. :sunny: Jamás olvides que el mejor día de tu vida es hoy. Bendiciones. :blossom: :paw_prints:
 
 
