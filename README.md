@@ -42,7 +42,7 @@ Estos proyectos son prácticas realizadas durante mi formación como QA Engineer
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">***Experiencia laboral***
 
 <details>
-  <summary> </summary>
+  <summary> </summary> Aqui puedes encontrar un resumen de mi experiencia laboral con mas de 10 años en proyectos de calidad. Durante este tiempo, desarrolle habilidades y competencias técnicas que hoy refuerzan mi perfil como QA Engineer. 
 <div>
   <samp>
 
