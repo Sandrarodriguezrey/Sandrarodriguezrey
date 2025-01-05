@@ -23,7 +23,7 @@
 
 Estos proyectos son prácticas realizadas durante mi formación como QA Engineer, donde aplique conceptos de pruebas de regresión, diseño de caso de pruebas y otras herramientas relevantes para asegurar la calidad del software. Te los presento:
 
-- **P1:** Pruebas de regresión y diseño de casos de pruebas para una aplicación de transporte (https://github.com/Sandrarodriguezrey/Proyecto1_Urban_Routes)
+- **P1:** Pruebas de regresión, diseño de casos de pruebas para una aplicación de transporte (https://github.com/Sandrarodriguezrey/Proyecto1_Urban_Routes)
 
 - **P2:** Casos de Prueba, Equivalencias, Diagrama de flujo, para una aplicación de transporte (https://github.com/Sandrarodriguezrey/Proyecto2_Urban_Routes)
 
