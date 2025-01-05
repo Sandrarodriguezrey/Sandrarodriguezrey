@@ -15,7 +15,7 @@
  
 - 🤝 &nbsp; Conectate conmigo: &nbsp;&nbsp;   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sandrarodriguez461428179)
 
-
+<br><br>
 
  ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">***Proyectos***
 
