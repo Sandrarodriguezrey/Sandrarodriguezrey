@@ -79,7 +79,7 @@ Estos proyectos son prácticas realizadas durante mi formación como QA Engineer
 
 ---
 <br>
-### :sunny: Me alegra que estes aquí. :sunny: Jamás olvides que el mejor día de tu vida es hoy. Bendiciones. :blossom: :paw_prints:
+:sunny: Me alegra que estes aquí. :sunny: Jamás olvides que el mejor día de tu vida es hoy. Bendiciones. :blossom: :paw_prints:
 
 
 ----------
