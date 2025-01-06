@@ -33,6 +33,8 @@ Estos proyectos son prácticas realizadas durante mi formación como QA Engineer
 
 - **P5:** Pruebas de aplicación movil con ANDROID STUDIO, para una aplicación de alimentos (https://github.com/Sandrarodriguezrey/Proyecto5_Urban_Lunch/tree/main)
 
+- **P6:** Pruebas con SQL para Base de datos y diagrama ER, para una aplicación de taxi  (https://github.com/Sandrarodriguezrey/Proyecto6_SQL)
+
 <br>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">***Habilidades técnicas :mag_right: y Otras competencias profesionales :computer:***
