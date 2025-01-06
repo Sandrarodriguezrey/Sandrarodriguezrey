@@ -31,6 +31,8 @@ Estos proyectos son prácticas realizadas durante mi formación como QA Engineer
 
 - **P4:** Diseño y Ejecución de Casos de Prueba para la API con POSTMAN, para una aplicación de alimentos (https://github.com/Sandrarodriguezrey/Proyecto4_Urban_Grocers/tree/main)
 
+- **P5:** Pruebas de aplicación movil con ANDROID STUDIO, para una aplicación de alimentos (https://github.com/Sandrarodriguezrey/Proyecto5_Urban_Lunch/tree/main)
+
 <br>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">***Habilidades técnicas :mag_right: y Otras competencias profesionales :computer:***
