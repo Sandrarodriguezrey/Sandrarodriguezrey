@@ -37,6 +37,8 @@ Estos proyectos son prácticas realizadas durante mi formación como QA Engineer
 
 - **P7:** Automatización de Pruebas API, para una aplicación de alimentos (https://github.com/Sandrarodriguezrey/Projecto7_Urban_Grocers)
 
+- **P8:** Automatización de Pruebas WEB, Selenium, para una aplicación de transporte  (https://github.com/Sandrarodriguezrey/Projecto8_Urban_Routes/tree/master)
+
 <br>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">***Habilidades técnicas :mag_right: y Otras competencias profesionales :computer:***
