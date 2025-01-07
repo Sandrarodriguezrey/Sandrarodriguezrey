@@ -35,6 +35,8 @@ Estos proyectos son prácticas realizadas durante mi formación como QA Engineer
 
 - **P6:** Pruebas con SQL para Base de datos y diagrama ER, para una aplicación de taxi  (https://github.com/Sandrarodriguezrey/Proyecto6_SQL)
 
+- **P7:** Automatización de Pruebas API, para una aplicación de alimentos (https://github.com/Sandrarodriguezrey/Projecto7_Urban_Grocers)
+
 <br>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">***Habilidades técnicas :mag_right: y Otras competencias profesionales :computer:***
